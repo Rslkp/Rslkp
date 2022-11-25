@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rslkp&label=Profile%20views&color=0e75b6&style=flat" alt="rslkp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rslkp" alt="rslkp" /></a> </p>
-
 - 🌱 I’m currently learning **javasscript,php,java**
 
 - 👯 I’m looking to collaborate on **Python**
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rasal-musthafa-00443a258?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bydxg9i%2fystizcjo8xc8dea%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasal-musthafa-00443a258?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bydxg9i%2fystizcjo8xc8dea%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rasalmusthafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasalmusthafa" height="30" width="40" /></a>
 <a href="https://instagram.com/rasalkp__k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasalkp__k" height="30" width="40" /></a>
 </p>
 
