@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+13426
+Fork on GitHub
+3534
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm RASAL MUSTHAFA</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
@@ -17,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rasal musthafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasal musthafa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rasal-musthafa-00443a258?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bydxg9i%2fystizcjo8xc8dea%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rasal-musthafa-00443a258?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bydxg9i%2fystizcjo8xc8dea%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/rasalkp__k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasalkp__k" height="30" width="40" /></a>
 </p>
 
@@ -29,3 +45,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rslkp&show_icons=true&locale=en" alt="rslkp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rslkp&" alt="rslkp" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
